@@ -89,7 +89,11 @@ GEM
     minitest (5.13.0)
     msgpack (1.3.1)
     nio4r (2.5.2)
+<<<<<<< HEAD
     nokogiri (1.10.5)
+=======
+    nokogiri (1.10.4)
+>>>>>>> 5ec853fc31789b72490354cc6f4befc60a218951
       mini_portile2 (~> 2.4.0)
     public_suffix (4.0.1)
     rack (2.0.7)
@@ -201,4 +205,8 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.0.2
+=======
+   2.0.1
+>>>>>>> 5ec853fc31789b72490354cc6f4befc60a218951
